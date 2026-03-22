@@ -1,8 +1,5 @@
 import tkinter as tk
 
-from btk.pages import GenericPage
-
-
 class Controller(tk.Tk):
     preloaded_pages = []
     title_page = None
